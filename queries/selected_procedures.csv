@@ -1,0 +1,46 @@
+procedure_concept_id,concept_name,count
+4085730,Antibiotic therapy,3518
+4305581,Application of dressing,4795
+4108844,Application of plaster cast,16461
+4079602,Application of plaster cast to lower limb,4233
+4138836,Arteriography of cerebral arteries,2951
+4213436,"Attention to device, anastomosis AND/OR stoma",11397
+4032404,Bronchoscopy,3768
+4088016,Child examination,6919
+4300757,Computerized axial tomography,80845
+4145739,Computerized axial tomography of brain,3003
+4142645,Coronary angiography,4661
+4184832,Coronary angioplasty,3624
+4303663,CT angiography,31701
+4244986,CT of brain without contrast,34621
+4163903,CT without contrast,109939
+4183408,Diagnostic procedure on upper respiratory tract,10806
+4230911,Echocardiography,37755
+4261794,Electrocardiogram with exercise test,14620
+4187078,Electrocardiographic monitoring,183302
+4181917,Electroencephalogram,5840
+4075112,Emergency examination for triage,153873
+4158569,Emergency procedure,61546
+4294382,Esophagogastroduodenoscopy,18732
+4146305,Evaluation of retina,5944
+4013636,Magnetic resonance imaging,39575
+4064522,Medical examination for suspected condition,54949
+4198856,MRI with contrast,7917
+4263508,Ophthalmic examination and evaluation,5636
+4163872,Plain chest X-ray,90959
+4057900,Plain X-ray abdomen,7014
+4187379,Psychologic cognitive testing and assessment,6078
+4312604,Puncture procedure,23959
+4178367,Radiographic imaging procedure,33620
+4104795,"Radiography of face, head AND/OR neck",13914
+4046267,Reduction procedure,3734
+4067028,Removal of foreign body from cornea,5207
+4075360,Surgical debridement of wound,17157
+4301351,Surgical procedure,6529
+4141448,Teleradiotherapy procedure,8495
+4037672,Ultrasonography,4166
+4261497,Ultrasonography of abdomen,5221
+4205771,Ultrasonography of soft tissue,27441
+4032254,Ultrasound procedure on cardiovascular system,15885
+4305221,US scan of abdomen and pelvis,58424
+46272790,X-ray of limb,80983
